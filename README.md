@@ -1,4 +1,7 @@
+
+
 # This are my first class assignments on c programming.
+
 ## Category 1 - Basic Output
 * **Program:** personal_information.c/main.c
 * **Textbook Reference:** Deitel, Chapter 2, Exercise 2.17.
