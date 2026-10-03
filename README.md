@@ -16,6 +16,7 @@
 * **Program:** performance_grading.c/main.c
 * **Textbook Reference:** Deitel, Chapter 3, Section 3.7 (if...else Selection Statement).
 * **Objective:** Use conditional logic (`if`, `else if`, `else`) to analyze an input score and output the corresponding performance grade.
+* 
 ## category 4-discont.
 * **Program:** It performs a discount calculation to the customers without wasting any single minute.
 * **Textbook Reference:** Deitel, Chapter 3, Section 3.7 (if...else if  Selection Statement, switch statement and while loop).
