@@ -25,4 +25,4 @@
 ## category 4-application of  for loops and discounts.
 * **Program:** It performs a discount calculation to the customers without wasting any single minute as long as the condition is met.
 * **Textbook Reference:** Deitel, Chapter 3, Section 3.7 -4... (if...else if  Selection Statement, switch statement and while loop).
-* **Objective:** Use conditional logic (`if`, `else if`, `else`) to analyze an input choices, pages needed and outputs the corresponding total amount for the user applying a discount as well using for loops to display the menu continuesly.
+* **Objective:** Use conditional logic (`if`, `else if`, `else`) to analyze an input choices, pages needed and outputs the corresponding total amount for the user applying a discount as well using for loops to display the menu continuously.
