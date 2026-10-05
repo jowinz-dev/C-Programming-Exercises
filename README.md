@@ -27,8 +27,8 @@
 * **Textbook Reference:** Deitel, Chapter 3, Section 3.7 -4... (if...else if  Selection Statement, switch statement and while loop).
 * **Objective:** Use conditional logic (`if`, `else if`, `else`) to analyze an input choices, pages needed and outputs the corresponding total amount for the user applying a discount as well using for loops to display the menu continuously.
 
-    ## Category 3 - Control Structures (Selection)
-* **Program:** performance_grading.c/main.c
-* **Textbook Reference:** Deitel, Chapter 3, Section 3.7 (if...else Selection Statement).
-* **Objective:** Use conditional logic (`if`, `else if`, `else`) to analyze an input score and output the corresponding performance grade.
+    ## Category  - basic function
+* **Program:** It prints a chrismas tree
+* **Textbook Reference:** Deitel, Chapter 3, Section 4.2 (function, with prototype void).
+* **Objective:** To print out an output that does not return anything
   
