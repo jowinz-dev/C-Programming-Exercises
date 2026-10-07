@@ -27,10 +27,10 @@
 
     ## Category  - basic function
 * **Program:** It prints a chrismas tree
-* **Textbook Reference:** Deitel, Chapter 3, Section 4.2 (function, with prototype void).
+* **Textbook Reference:** Deitel, Chapter 5, Section 4.2 (function, with prototype void).
 * **Objective:** To print out an output that does not return anything
   
     ## Category  - intermediate functions
 * **Program:** It prompts the user to enter the test marks then gets the total and the average then prints out pass if the average is >= 50 else it prints fail.
-* **Textbook Reference:** Deitel, Chapter 3, Section 4.2 (function, with prototype void).
+* **Textbook Reference:** Deitel, Chapter 5, Section 4.2 (function, with prototype ).
 * **Objective:** To print out an output that does not return anything
