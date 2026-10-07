@@ -27,7 +27,7 @@
 
     ## Category  - basic function ( function1 )
 * **Program:** It prints a chrismas tree
-* **Textbook Reference:** Deitel, Chapter 5, Section 4.2 (function, with prototype void).
+* **Textbook Reference:** Deitel, Chapter 5,(function, with prototype void).
 * **Objective:** To print out an output that does not return anything
   
     ## Category  - intermediate functions(funct_prac4)
