@@ -1,5 +1,3 @@
-
-
 # This are my first class assignments on c programming.
 
 ## Category 1 - Basic Output
