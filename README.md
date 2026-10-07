@@ -25,7 +25,7 @@
 * **Textbook Reference:** Deitel, Chapter 4, Section 3.7 -4... (if...else if  Selection Statement, switch statement and while loop).
 * **Objective:** Use conditional logic (`if`, `else if`, `else`) to analyze an input choices, pages needed and outputs the corresponding total amount for the user applying a discount as well using for loops to display the menu continuously.
 
-    ## Category  - basic function(function1)
+    ## Category  - basic function(function1 )
 * **Program:** It prints a chrismas tree
 * **Textbook Reference:** Deitel, Chapter 5, Section 4.2 (function, with prototype void).
 * **Objective:** To print out an output that does not return anything
