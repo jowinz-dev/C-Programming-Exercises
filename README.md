@@ -17,12 +17,12 @@
   
 ## category 4-application of  while loops and discount in a menu.
 * **Program:** It performs a discount calculation to the customers without wasting any single minute.
-* **Textbook Reference:** Deitel, Chapter 3, Section 3.7 (if...else if  Selection Statement, switch statement and while loop).
+* **Textbook Reference:** Deitel, Chapter 4, Section 3.7 (if...else if  Selection Statement, switch statement and while loop).
 * **Objective:** Use conditional logic (`if`, `else if`, `else`) to analyze an input choice,quantinty and outputs the corresponding total amount for the user applying a discount as well.
 
 ## category 4-application of  for loops and discounts.
 * **Program:** It performs a discount calculation to the customers without wasting any single minute as long as the condition is met.
-* **Textbook Reference:** Deitel, Chapter 3, Section 3.7 -4... (if...else if  Selection Statement, switch statement and while loop).
+* **Textbook Reference:** Deitel, Chapter 4, Section 3.7 -4... (if...else if  Selection Statement, switch statement and while loop).
 * **Objective:** Use conditional logic (`if`, `else if`, `else`) to analyze an input choices, pages needed and outputs the corresponding total amount for the user applying a discount as well using for loops to display the menu continuously.
 
     ## Category  - basic function
@@ -32,5 +32,5 @@
   
     ## Category  - intermediate functions
 * **Program:** It prompts the user to enter the test marks then gets the total and the average then prints out pass if the average is >= 50 else it prints fail.
-* **Textbook Reference:** Deitel, Chapter 5, Section 4.2 (function, with prototype ).
-* **Objective:** To print out an output that does not return anything
+* **Textbook Reference:** Deitel, Chapter 5,(function, with prototype like float, integer and void).
+* **Objective:** To print out an output that does not return anything, that returns the total mark. Here the void prototype means the function is returning nothing,float means it returns a number with a decimal point while the integer returns a whole number.
