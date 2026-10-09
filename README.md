@@ -34,3 +34,8 @@
 * **Program:** It prompts the user to enter the test marks then gets the total and the average then prints out pass if the average is >= 50 else it prints fail.
 * **Textbook Reference:** Deitel, Chapter 5,(function, with prototype like float, integer and void).
 * **Objective:** To print out an output that does not return anything, that returns the total mark. Here the void prototype means the function is returning nothing,float means it returns a number with a decimal point while the integer returns a whole number.
+
+  ## Category  - intermediate functions(main.c)
+* **Program:** It prompts the user to enter the two numbers then gets the largestthen prints out
+* * **Textbook Reference:** Deitel, Chapter 5,(function, with prototype like float, integer and void).
+* **Objective:** To print out an output that does not return anything, that returns the total mark. Here the void prototype means the function is returning nothing,float means it returns a number with a decimal point while the integer returns a whole number.
