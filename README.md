@@ -38,4 +38,4 @@
   ## Category  - intermediate functions(main.c)
 * **Program:** It prompts the user to enter the two numbers then gets the largestthen prints out
 * * **Textbook Reference:** Deitel, Chapter 5,(function, with prototype findlargernumber).
-* **Objective:** To print out an output that does not return anything, that returns the total mark. Here the void prototype means the function is returning nothing,float means it returns a number with a decimal point while the integer returns a whole number.
+* **Objective:** To print out an output that do return an integer.
