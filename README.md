@@ -25,10 +25,10 @@
 * **Textbook Reference:** Deitel, Chapter 4, Section 3.7 -4... (if...else if  Selection Statement, switch statement and while loop).
 * **Objective:** Use conditional logic (`if`, `else if`, `else`) to analyze an input choices, pages needed and outputs the corresponding total amount for the user applying a discount as well using for loops to display the menu continuously.
 
-    ## Category  - basic function
+    ## Category  - basic function ( function1 )
 * **Program:** It prints a chrismas tree
-* **Textbook Reference:** Deitel, Chapter 5, Section 4.2 (function, with prototype void).
-* **Objective:** To print out an output that does not return anything
+* **Textbook Reference:** Deitel, Chapter 5,(function, with prototype void).
+* **Objective:** To print out an output that does not return anything. The void tells the compiler that we are not returning anything
   
     ## Category  - intermediate functions(funct_prac4)
 * **Program:** It prompts the user to enter the test marks then gets the total and the average then prints out pass if the average is >= 50 else it prints fail.
