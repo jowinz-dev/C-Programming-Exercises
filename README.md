@@ -40,7 +40,7 @@
 * * **Textbook Reference:** Deitel, Chapter 5,(function, with prototype findlargernumber).
 * **Objective:** To print out an output that do return an integer.
   
-    ## Category  - intermediate functions(main.c)
+    ## Category  - 
 * **Program:** It prompts the user to enter the two numbers then gets the largestthen prints out
 * * **Textbook Reference:** Deitel, Chapter 5,(function, with prototype findlargernumber).
 * **Objective:** To print out an output that do return an integer.
