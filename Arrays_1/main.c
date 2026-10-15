@@ -2,8 +2,7 @@
 #include <stdlib.h>
 
 int main()
-{
-    float prices[3] = {10.50f, 5.99f, 20.00f};
+{    float prices[3] = {10.50f, 5.99f, 20.00f};
 
     // We want to change the SECOND item (5.99) to 7.50
     prices[1] = 7.50f;
