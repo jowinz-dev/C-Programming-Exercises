@@ -3,7 +3,6 @@
 
 int main()
 {
-    // Bug 1 is hiding in how this array is initialized
     float prices[3] = {10.50f, 5.99f, 20.00f};
 
     // We want to change the SECOND item (5.99) to 7.50
